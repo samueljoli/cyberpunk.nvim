@@ -1,5 +1,5 @@
 # cyberpunk.nvim
-Lua port of the vim cyberpunk colorscheme
+Lua port of the vim [cyberpunk colorscheme](https://github.com/thedenisnikulin/vim-cyberpunk)
 
 ### Installation
 
